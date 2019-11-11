@@ -1,0 +1,4 @@
+2 a read
+1 b read
+1 b write
+0 b read
